@@ -1,0 +1,50 @@
+﻿body {
+  overflow-x: hidden;
+}
+
+.carousel-item {
+  height: 500px;
+}
+
+.carousel-image-1 {
+  background: url('../img/image1.jpg');
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url('../img/image2.jpg');
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url('../img/image3.jpg');
+  background-size: cover;
+}
+
+h1.special{
+color:#1c3b3e !important;}
+
+h1.special2{
+color:#c09c4f !important;}
+
+h5#changecolor{color:#1c3b3e !important;}
+
+h1, h2{font-family: 'Pinyon Script', cursive;
+font-size: 3rem;
+  font-weight: 600;}
+  
+  .navbar-brand {
+	  font-family: 'Pinyon Script', cursive;
+	  font-weight: 500;
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  color:#c09c4f !important;
+  margin-right: 1rem;
+  font-size: 2rem;
+  line-height: inherit;
+  white-space: nowrap; }
+  .navbar-brand:hover, .navbar-brand:focus {
+    text-decoration: none; }
+
+@import url('https://fonts.googleapis.com/css?family=Pinyon+Script');
